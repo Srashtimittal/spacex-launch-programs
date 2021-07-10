@@ -1,0 +1,32 @@
+.Rocket-details-card {
+    width: 14rem;
+    height: 28rem;
+    padding: 0.75rem;
+    margin-left: 0.8rem;
+    margin-bottom: 15px;
+}
+
+.Rocket-mission-image {
+    background-color: #F2F2F2;
+    width: 200px;
+    height: 180px;
+}
+
+.Rocket-mission-name-flight-number {
+    color: #282157;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.Rocket-detail-label {
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.Rocket-detail-value {
+    color: #4a478a;
+    font-weight: 400;
+}
